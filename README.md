@@ -1,4 +1,4 @@
-# Custom-Nameplates LunaFork
+# Custom-Nameplates LunaForks
 
 ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/Xiao-MoMi/Custom-Nameplates)
 <a href="https://mo-mi.gitbook.io/xiaomomi-plugins/plugin-wiki/customnameplates" alt="GitBook">
